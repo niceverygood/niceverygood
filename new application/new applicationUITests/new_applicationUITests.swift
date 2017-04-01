@@ -1,14 +1,14 @@
 //
-//  niceverygoodUITests.swift
-//  niceverygoodUITests
+//  new_applicationUITests.swift
+//  new applicationUITests
 //
-//  Created by 이경문 on 2017. 3. 27..
-//  Copyright © 2017년 이경문. All rights reserved.
+//  Created by 한승수 on 2017. 4. 1..
+//  Copyright © 2017년 한승수. All rights reserved.
 //
 
 import XCTest
 
-class niceverygoodUITests: XCTestCase {
+class new_applicationUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

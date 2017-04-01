@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>niceverygood.xcscheme</key>
+		<key>new application.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8B19FDFE1E893F030066BE8F</key>
+		<key>C07FD1801E8F36480034CF5B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8B19FE121E893F030066BE8F</key>
+		<key>C07FD1941E8F36480034CF5B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8B19FE1D1E893F030066BE8F</key>
+		<key>C07FD19F1E8F36480034CF5B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

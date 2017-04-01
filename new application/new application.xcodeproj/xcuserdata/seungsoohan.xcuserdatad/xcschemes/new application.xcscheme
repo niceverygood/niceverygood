@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0830"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8B19FDFE1E893F030066BE8F"
-               BuildableName = "niceverygood.app"
-               BlueprintName = "niceverygood"
-               ReferencedContainer = "container:niceverygood.xcodeproj">
+               BlueprintIdentifier = "C07FD1801E8F36480034CF5B"
+               BuildableName = "new application.app"
+               BlueprintName = "new application"
+               ReferencedContainer = "container:new application.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8B19FE121E893F030066BE8F"
-               BuildableName = "niceverygoodTests.xctest"
-               BlueprintName = "niceverygoodTests"
-               ReferencedContainer = "container:niceverygood.xcodeproj">
+               BlueprintIdentifier = "C07FD1941E8F36480034CF5B"
+               BuildableName = "new applicationTests.xctest"
+               BlueprintName = "new applicationTests"
+               ReferencedContainer = "container:new application.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8B19FE1D1E893F030066BE8F"
-               BuildableName = "niceverygoodUITests.xctest"
-               BlueprintName = "niceverygoodUITests"
-               ReferencedContainer = "container:niceverygood.xcodeproj">
+               BlueprintIdentifier = "C07FD19F1E8F36480034CF5B"
+               BuildableName = "new applicationUITests.xctest"
+               BlueprintName = "new applicationUITests"
+               ReferencedContainer = "container:new application.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8B19FDFE1E893F030066BE8F"
-            BuildableName = "niceverygood.app"
-            BlueprintName = "niceverygood"
-            ReferencedContainer = "container:niceverygood.xcodeproj">
+            BlueprintIdentifier = "C07FD1801E8F36480034CF5B"
+            BuildableName = "new application.app"
+            BlueprintName = "new application"
+            ReferencedContainer = "container:new application.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8B19FDFE1E893F030066BE8F"
-            BuildableName = "niceverygood.app"
-            BlueprintName = "niceverygood"
-            ReferencedContainer = "container:niceverygood.xcodeproj">
+            BlueprintIdentifier = "C07FD1801E8F36480034CF5B"
+            BuildableName = "new application.app"
+            BlueprintName = "new application"
+            ReferencedContainer = "container:new application.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8B19FDFE1E893F030066BE8F"
-            BuildableName = "niceverygood.app"
-            BlueprintName = "niceverygood"
-            ReferencedContainer = "container:niceverygood.xcodeproj">
+            BlueprintIdentifier = "C07FD1801E8F36480034CF5B"
+            BuildableName = "new application.app"
+            BlueprintName = "new application"
+            ReferencedContainer = "container:new application.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
