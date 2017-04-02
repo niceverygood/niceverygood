@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8BAE898A1E90C99B006BF6E3 /* NATableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BAE89891E90C99B006BF6E3 /* NATableViewController.swift */; };
 		C07FD1851E8F36480034CF5B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07FD1841E8F36480034CF5B /* AppDelegate.swift */; };
 		C07FD1871E8F36480034CF5B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07FD1861E8F36480034CF5B /* ViewController.swift */; };
 		C07FD18A1E8F36480034CF5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C07FD1881E8F36480034CF5B /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8BAE89891E90C99B006BF6E3 /* NATableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NATableViewController.swift; sourceTree = "<group>"; };
 		C07FD1811E8F36480034CF5B /* new application.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "new application.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C07FD1841E8F36480034CF5B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C07FD1861E8F36480034CF5B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				C07FD1841E8F36480034CF5B /* AppDelegate.swift */,
 				C07FD1861E8F36480034CF5B /* ViewController.swift */,
 				C07FD1881E8F36480034CF5B /* Main.storyboard */,
+				8BAE89891E90C99B006BF6E3 /* NATableViewController.swift */,
 				C07FD18B1E8F36480034CF5B /* Assets.xcassets */,
 				C07FD18D1E8F36480034CF5B /* LaunchScreen.storyboard */,
 				C07FD1901E8F36480034CF5B /* Info.plist */,
@@ -193,6 +196,7 @@
 				TargetAttributes = {
 					C07FD1801E8F36480034CF5B = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = KUN77N9BF8;
 						ProvisioningStyle = Automatic;
 					};
 					C07FD1941E8F36480034CF5B = {
@@ -260,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C07FD1871E8F36480034CF5B /* ViewController.swift in Sources */,
+				8BAE898A1E90C99B006BF6E3 /* NATableViewController.swift in Sources */,
 				C07FD1851E8F36480034CF5B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,7 +417,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KUN77N9BF8;
 				INFOPLIST_FILE = "new application/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "SNU.new-application";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +431,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KUN77N9BF8;
 				INFOPLIST_FILE = "new application/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "SNU.new-application";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -505,6 +514,7 @@
 				C07FD1AB1E8F36480034CF5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C07FD1AC1E8F36480034CF5B /* Build configuration list for PBXNativeTarget "new applicationTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +523,7 @@
 				C07FD1AE1E8F36480034CF5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C07FD1AF1E8F36480034CF5B /* Build configuration list for PBXNativeTarget "new applicationUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +532,7 @@
 				C07FD1B11E8F36480034CF5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
